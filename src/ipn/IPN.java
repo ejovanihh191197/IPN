@@ -7,7 +7,7 @@ package ipn;
 
 /**
  *
- * @author erick
+ * @author pc
  */
 public class IPN {
 

@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author erick
+ * @author pc
  */
 public class Operaciones {
     private ArrayList<Participante> participantes = new ArrayList();
