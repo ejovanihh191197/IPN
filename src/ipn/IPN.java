@@ -16,8 +16,8 @@ public class IPN {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Operaciones x = new Operaciones();
-        x.principal();
+        Operaciones main = new Operaciones();
+        main.main();
     }
     
 }

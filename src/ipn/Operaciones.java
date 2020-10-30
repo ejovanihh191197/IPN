@@ -29,7 +29,7 @@ public class Operaciones {
         return opElejida;
     }
     
-    public void principal(){
+    public void main(){
         int opcion;
         do{
             opcion = menu();
